@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act for setling the militia within the hamblets of the Tower of London. Thursday, July 14. 1659. Ordered by the Parliament, that this Act be forthwith printed and published. Thomas St. Nicholas Clerk of Parliament.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82418</idno>
+            <idno type="STC">Wing E1074</idno>
+            <idno type="STC">Thomason E1074_12</idno>
+            <idno type="STC">ESTC R208306</idno>
+            <idno type="EEBO-CITATION">99867267</idno>
+            <idno type="PROQUEST">99867267</idno>
+            <idno type="VID">119572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82418)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119572)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1074[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act for setling the militia within the hamblets of the Tower of London. Thursday, July 14. 1659. Ordered by the Parliament, that this Act be forthwith printed and published. Thomas St. Nicholas Clerk of Parliament.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Field and Henry Hills, printers to Parliament. And are to be sold at the seven Stars in Fleet-street, over against Dunstans Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ordered to be printed and published: Thursday 14. July, 1659.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Law and legislation --  Early works to 1800.</term>
+               <term>Tower Hamlets (London, England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119572:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>AN ACT For ſetling the MILITIA Within the Hamblets of the Tower of LONDON.</p>
+            <figure>
+               <figDesc>blazon of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Thurſday, July 14. 1659.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Thomas</hi> St. <hi>Nicholas</hi> Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Field</hi> and <hi>Henry Hills,</hi> Printers to the Parliament.</p>
+            <p>And are to be ſold at the ſeven Stars in <hi>Fleet-ſtreet,</hi> over againſt <hi>Dunſtans</hi> Church, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:119572:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb n="1" facs="tcp:119572:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>AN ACT For ſetling the MILITIA Within the Hamblets of the Tower of LONDON.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Enacted by this preſent Parliament, and the Autho<g ref="char:EOLhyphen"/>rity thereof, That the Lieu<g ref="char:EOLhyphen"/>tenant of the Tower for the time being, Sir <hi>Henry Vane, Solomon Smith,</hi> Lieutenant Colonel <hi>John Miller, Maurice Thompſon, Tho<g ref="char:EOLhyphen"/>mas Hubert, William Northy, William Wormell, William Hobſon, Richard Loton, William War<g ref="char:EOLhyphen"/>ren, William Page,</hi> 
+               <abbr>Eſqs</abbr> Captain <hi>Chamberline, Edward Anſlowe, Mark Mortimer, Francis Rev<g ref="char:EOLhyphen"/>nolds, Abraham Jeſſon, Thomas Naſh, Benjamin Andrews, Foulk Wormelayton,</hi> Captain <hi>Arthur Bayliffe, Robert Wakelin, John Hoxton, Aaron Jones,</hi> Major <hi>Kerlebeter, John Brookhaven, William Green<g ref="char:EOLhyphen"/>ſmith, James Dunteer, John Sowdin, William Mea<g ref="char:EOLhyphen"/>comb, William Bourn, Thomas Dry, Anthony Tou<g ref="char:EOLhyphen"/>chin,</hi>
+               <pb n="2" facs="tcp:119572:3"/>
+               <!-- PDF PAGE 99 -->Captain <hi>Swanley, John Limbrey,</hi> Colonel <hi>Rowe, Joſias Berners,</hi> Alderman <hi>Mark Hildſley,</hi> Doctor <hi>Trigg, Hamond Brend, John Adis, Oſmond Coppin,</hi> and Lieutenant Colonel <hi>Cutlit,</hi> be, and are hereby conſtituted and appointed Commiſſioners for the <hi>Militia,</hi> within the Hamblets of the Tower of <hi>London;</hi> And that they, or any Seven or more of them, ſhall have power, and are hereby authorized to aſſemble and call together all and every ſuch well affected perſon and perſons within the ſaid Hamblets, as are me<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and fit to bear Arms, and them well and ſufficiently from time to time to cauſe to be Armed, Ar<g ref="char:EOLhyphen"/>rayed, and Weaponed, and to Form into Companies, Troops, and Regiments, and to Lead, Conduct, and Imploy, or cauſe to be Led, Conducted, and Imployed, as well within the ſaid Hamblets, as within and into any other places of this Common<g ref="char:EOLhyphen"/>wealth, for Suppreſſing of all Inſurrecti<g ref="char:EOLhyphen"/>ons, Rebellions, and Invaſions, that may happen to be, and to Fight with, Kill, and Slay ſuch Enemies and Rebels, as they ſhall finde in Arms againſt this Common<g ref="char:EOLhyphen"/>wealth. And further to Act and Do accord<g ref="char:EOLhyphen"/>ing as they ſhall from time to time receive Directions from the Parliament or Council of State by the Parliament appointed, or to be appointed.</p>
+            <p>And that the ſaid Commiſſioners, or any Seven or more of them, ſhall have power and authority, to preſent to the Parliament or Council of State, the names of ſuch per<g ref="char:EOLhyphen"/>ſon and perſons, having reſpect to the Qua<g ref="char:EOLhyphen"/>lifications
+<pb n="3" facs="tcp:119572:3"/>
+               <!-- PDF PAGE 99 -->declared by the Parliament, as they ſhall think fit, to be Colonels, Lieute<g ref="char:EOLhyphen"/>nant Colonels, Majors, Captains, and o<g ref="char:EOLhyphen"/>ther Commiſſion Officers of the ſaid perſons ſo to be Armed, Arrayed and Weaponed: Which perſons ſo to be preſented and appro<g ref="char:EOLhyphen"/>ved of by the Parliament or Council of State, ſhall have Commiſſions Signed by the Speaker of the Parliament, as the Of<g ref="char:EOLhyphen"/>ficers of the Army have: and being ſo Com<g ref="char:EOLhyphen"/>miſſionated, ſhall have power to Train, Ex<g ref="char:EOLhyphen"/>erciſe, and put in readineſs, and alſo to Lead and Conduct the perſons ſo to be Armed, Ar<g ref="char:EOLhyphen"/>rayed, and Weaponed, by the directions, and to the intents and purpoſes aforeſaid. And for the providing Horſe &amp; Arms, and the Fur<g ref="char:EOLhyphen"/>niture thereunto belonging, for the Arming and Weaponing the perſons aforeſaid: And alſo for the Defraying and Paying the neceſ<g ref="char:EOLhyphen"/>ſary Charges thereunto belonging,</p>
+            <p>Be it further Enacted, that the ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any Seven or more of them, have hereby Power and Authority, to Aſſeſs and Charge all and every ſuch perſon and per<g ref="char:EOLhyphen"/>ſons, inhabiting and reſiding within the ſaid Hamblets, or who have any Eſtate within the ſame, proportionably, according to their eſtates there, as are or ſhall be fit and meet to be Aſſeſt and Charged, for the purpo<g ref="char:EOLhyphen"/>ſes aforeſaid, for and towards the finding, furniſhing and providing, maintaining and having in readineſs one or more Horſe, or Horſes, Arms, or other Furniture, according to the ſeveral Eſtates and abilities of the per<g ref="char:EOLhyphen"/>ſon ſo to be Aſſeſt and Charged.</p>
+            <p>
+               <pb n="4" facs="tcp:119572:4"/>
+               <!-- PDF PAGE 100 -->
+Provided, That no one Perſon not having an Eſtate of the clear value of three thouſand pounds (of which the ſaid Commiſſioners are to be Iudges) be Charged or Chargeable with an Horſe, Arms, and the Furniture thereunto belonging, and that no one perſon not having an eſtate of the clear value of four hundred pounds (of which alſo the ſaid Com<g ref="char:EOLhyphen"/>miſſioners are to be Iudges) be charged or chargeable with a whole foot Arms and the furniture thereunto belonging.</p>
+            <p>Provided nevertheleſs, And be it Enacted, That all and every perſon or perſons having an Eſtate of the clear value of one hundred pounds, and under the ſaid value of four hundred pounds, be chargeable by the ſaid Commiſſioners, for and towards the finding and providing of Drums, Colours, Powder, Match and Bullet, ſo that ſuch charge upon any one Perſon exceed not the Sum of twenty ſhillings.</p>
+            <p>And be it further Enacted, that if any per<g ref="char:EOLhyphen"/>ſon or perſons, ſo to be Aſſeſſed or Charged by the ſaid Commiſſioners, ſhall refuſe or neg<g ref="char:EOLhyphen"/>lect, by the time to be appointed by the ſaid Commiſſioners, to Provide and furniſh ſuch ſufficient Horſe, Horſes, Arms and other fur<g ref="char:EOLhyphen"/>niture, or to pay ſuch Sum or Sums of mo<g ref="char:EOLhyphen"/>ney, towards the providing and furniſhing as aforeſaid, That then it ſhall and may be law<g ref="char:EOLhyphen"/>ful to and for the ſaid Commiſſioners, or any Seven or more of them, to inflict a penalty upon ſuch perſon and perſons, not exceed<g ref="char:EOLhyphen"/>ing twenty pounds, and alſo, by Warrant under their hands and Seals, to commit
+<pb n="5" facs="tcp:119572:4"/>
+               <!-- PDF PAGE 100 -->ſuch perſon and perſons, ſo refuſing or neg<g ref="char:EOLhyphen"/>lecting, to Priſon, there to remain, without Bail or Mainprize, till he or they ſhall con<g ref="char:EOLhyphen"/>form thereunto, and pay ſuch penalty ſo in<g ref="char:EOLhyphen"/>flicted as aforeſaid, or elſe by like Warrant to Levy ſuch Sum or Sums of Money, or the value of ſuch Horſe, or Horſes, Arms, and Furniture, and ſuch penalty inflicted, by Di<g ref="char:EOLhyphen"/>ſtreſſe and Sale of the Goods of the perſon or perſons ſo neglecting or refuſing (rendring the overplus to the party ſo diſtrained) all neceſſary Charges in Levying thereof being firſt deducted.</p>
+            <p>And be it further Enacted, that if any per<g ref="char:EOLhyphen"/>ſon or perſons ſo to be Armed, Arrayed and Weaponed, ſhall detain or imbezle his Horſe, Arms or other Furniture, wherewith he ſhall be intruſted, That it ſhall and may be lawful, to and for the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners, or any Seven or more of them, to im<g ref="char:EOLhyphen"/>priſon ſuch perſon and perſons, till he or they have made ſatisfaction for the Horſe, Arms or other Furniture ſo by him detained or im<g ref="char:EOLhyphen"/>bezled, and alſo that if any perſon, ſo to be Armed, Horſed or Weaponed as aforeſaid, ſhall not appear and ſerve compleatly furni<g ref="char:EOLhyphen"/>ſhed, with the Horſe, Arms and other Fur<g ref="char:EOLhyphen"/>niture wherewith he is intruſted, at the Beat of Drum, Sound of Trumpet or other ſummons, That then and ſo often it ſhall and may be lawful, to and for the ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any five of them, if the de<g ref="char:EOLhyphen"/>fault be in the perſon or perſons ſo intruſt<g ref="char:EOLhyphen"/>ed, to impriſon ſuch perſon or perſons for the ſpace of five days without Bail or Main<g ref="char:EOLhyphen"/>prize,
+<pb n="6" facs="tcp:119572:5"/>
+               <!-- PDF PAGE 101 -->or inflict a penalty, if a Horſeman not exceeding twenty ſhillings, and if a Footman not exceeding ten ſhillings, to be paid down without delay or forbearance: And if any per<g ref="char:EOLhyphen"/>ſon or perſons ſo aſſeſſed or charged as afore<g ref="char:EOLhyphen"/>ſaid, ſhall refuſe or neglect to deliver his Horſe, Arms and other Furniture, upon ſuch Summons, or other notice as aforeſaid, That then it ſhall and may be Lawfull to and for the ſaid Commiſſioners, or any five or more, to inflict a penalty not exceeding five pounds, to be Levied by diſtreſs and ſale of the Goods of ſuch perſon &amp; perſons ſo refuſing as afore<g ref="char:EOLhyphen"/>ſaid, rendring the overplus to the party di<g ref="char:EOLhyphen"/>ſtrained, (neceſſary charges for Levying being firſt deducted.) And for the better diſcovery of the ability of the perſons to be aſſeſſed and charged, and of all miſdemeanors tending to the hindrance of the ſervice aforeſaid, the ſaid Commiſſioners, or any three or more of them, are hereby enabled to examine upon Oath ſuch perſon and perſons as they ſhall judge neceſ<g ref="char:EOLhyphen"/>ſary and Convenient. And for the better and more ſpeedie execution of the Premiſes,</p>
+            <p>Be it further Enacted, And the ſaid Com<g ref="char:EOLhyphen"/>miſſioners are hereby required to appoint ſuch and ſo often General meetings of themſelves as they ſhall think fit, and at ſuch General meetings to appoint one or more Treaſurer or Treaſurers, for receiving ſuch money as ſhall be Levied by vertue hereof, of all which Receipts and diſburſements thereof, the ſaid Treaſurers and Receivers are every ſix Mo<g ref="char:EOLhyphen"/>neths to give their Accompt in writing to the Parliament or Council of State.</p>
+            <p>
+               <pb n="7" facs="tcp:119572:5"/>
+               <!-- PDF PAGE 101 -->
+And be it further Enacted, That the ſaid Commiſſioners, or any Seven or more of them, ſhall and may Summon all and every Trea<g ref="char:EOLhyphen"/>ſurer and Treaſurers of any former Com<g ref="char:EOLhyphen"/>mittee, or Commiſſioners for the Militia, within the Hamblets aforeſaid, or any other perſon or perſons, who by vertue of any Au<g ref="char:EOLhyphen"/>thority of Parliament, or otherwiſe, are poſſeſt of any Sum or Sums of Money, Arms or Ammunition, in relation to the ſaid Militia, and to require them and every of them, forthwith to pay every ſuch Sum and ſums of Money, and deliver ſuch Arms and Ammunition remaining in their hands afore<g ref="char:EOLhyphen"/>ſaid, to ſuch perſon or perſons as the ſaid Commiſſioners appointed by this Act, or any Seven or more of them, ſhall appoint; and in caſe of non-payment and delivery of ſuch Arms and Ammunition, to Levy the ſame Money and value of the ſaid Arms and Am<g ref="char:EOLhyphen"/>munition, by Impriſonment of the perſon, or by diſtreſs and ſale, rendring the overplus to the party diſtrained: All which Moneys ſo Levied and Received, and all ſuch Arms and Ammunition, as aforeſaid, to be delivered, are to be imployed for carrying on of the ſaid ſervice: and at ſuch General meetings the ſaid Commiſſioners are to divide themſelves in ſuch proportions and numbers as they ſhall judge convenient, and into ſuch diviſions as may moſt tend to the ſpeedy and effectual ad<g ref="char:EOLhyphen"/>vancement of the ſervice. And for the better ſecuring of the Peace of this Common<g ref="char:EOLhyphen"/>wealth,</p>
+            <p>Be it further Enacted and Ordained,
+<pb n="8" facs="tcp:119572:6"/>
+               <!-- PDF PAGE 102 -->And the ſaid Commiſſioners, or any Seven or more of them, are hereby enabled and Au<g ref="char:EOLhyphen"/>thorized from time to time, by Warrant under their hands &amp; ſeals, to imploy ſuch wel affected perſon or perſons as they ſhall think fit, of which a Conſtable for the time being within his reſpective Hamblet to be one, in the day<g ref="char:EOLhyphen"/>time, to ſearch for and ſeize all Arms and Horſes, in y<hi rend="sup">e</hi> cuſtody or poſſeſſion of any Popiſh Recuſant, or other perſon that hath been in Arms againſt the Parliament, or that hath adhered to the Enemies thereof, or any other perſon, whom the ſaid Commiſſioners ſhall judge dangerous to the Peace of this Com<g ref="char:EOLhyphen"/>monwealth, and with ſuch Arms and Horſes, to Arm ſuch well affected perſons as they ſhall think fit, or otherwiſe to ſecure ſuch Arms and Horſes, for the uſe of the Com<g ref="char:EOLhyphen"/>monwealth; to which purpoſe the perſons ſo to be imployed are hereby Authorized and re<g ref="char:EOLhyphen"/>quired to enter into the Houſe or Lodging of any ſuch perſon as aforeſaid, and there to ſearch for, ſeize, and take away ſuch Arms and Horſes as they ſhall finde, and thereof from time to time to give accompt to the ſaid Commiſſioners.</p>
+            <p>And be it further Enacted, That all high Conſtables, Petty Conſtables, and other Officers and Miniſters within the ſaid Ham<g ref="char:EOLhyphen"/>blets, be, and are hereby required to be aid<g ref="char:EOLhyphen"/>ing and aſſiſting to the ſaid Commiſſioners, in execution of the Premiſſes; and that all and every Perſon and Perſons, who ſhall Act or Do any thing in execution there<g ref="char:EOLhyphen"/>of, ſhall be ſaved harmleſs and Indempni<g ref="char:EOLhyphen"/>fied
+<pb n="9" facs="tcp:119572:6"/>
+               <!-- PDF PAGE 102 -->by Authority of Parliament.</p>
+            <p>And be it further Enacted, That it ſhall and may be lawfull, to, and for the ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any Seven or more of them, to impoſe the finding and providing of Horſe and Arms as aforeſaid, by joyning two, three, or more perſons together in the Charge, as to their Iudgements ſhall appear moſt conducible to the ſervice of the Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>Provided, That this Act ſhall continue in Force until the Firſt day of <hi>March,</hi> One thouſand ſix hundred fifty nine, and no longer.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Thurſday 14. July, 1659.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Thomas</hi> St. <hi>Nicholas,</hi> Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
